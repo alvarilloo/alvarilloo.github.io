@@ -1,0 +1,46 @@
+<p id="ESC">Press ESC to skip the animation :3</p>
+
+<span id="a">alvaro.16_@Downloads</span>:<span id="b">~</span>$ cd Portfolio/about_me
+<span id="a">alvaro.16_@Downloads</span>:<span id="b">~</span>$ vim my_portfolio.txt
+
+<br/><br/>
+<span id="k">"Por tu paz mental, no trates de entender todo. Todo en este mundo es temporal." </span>
+
+<br></br>
+
+¡Hola! soy <span id="a">Álvaro</span>, un chico apasionado por <span id="a">programar</span> y un estudiante de <span id="a">Sistemas microinformáticos y redes</span>, dedicado (actualmente) a programar casualmente servidores de FiveM y crear scripts.
+
+<p>Soy un apasionado por la <span id="a">informática</span> desde pequeñito y mi sueño siempre ha sido ayudar a las personas mediante esta increíble rama. Como programador he tocado varios lenguajes como JavaScript, Lua y Python aunque el que más domino es Lua</p>
+
+<p>Actualmente, soy parte del equipo de programación de uno de los servidores hispanohablantes más grandes de todo <span id="a">FiveM</span>, donde al mismo tiempo que ayudo, estoy mejorando mis habilidades como programador</a>.</p>
+
+<p>Sientete libre de ver mi perfil de <a href="https://github.com/alvarilloo">GitHub</a> en y en contactarme a través de los siguientes medios:
+
+Mail: <a href="mailto:alvaroarrue5@gmail.com">alvaroarrue5@gmail.com</a>
+Discord: <a href="https://discord.gg/DfNYsfYNUw">https://discord.gg/DfNYsfYNUw</a>
+Fiverr: (próximamente)
+
+<p>Bye bye.</p>
+
+
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+<p class="center-pre"> alvaro.16_ </pre>                           
+<pre class="center-pre">
+
+
+░█████╗░██╗░░░░░██╗░░░██╗░█████╗░██████╗░░█████╗░
+██╔══██╗██║░░░░░██║░░░██║██╔══██╗██╔══██╗██╔══██╗
+███████║██║░░░░░╚██╗░██╔╝███████║██████╔╝██║░░██║
+██╔══██║██║░░░░░░╚████╔╝░██╔══██║██╔══██╗██║░░██║
+██║░░██║███████╗░░╚██╔╝░░██║░░██║██║░░██║╚█████╔╝
+╚═╝░░╚═╝╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░
+
+La vida no tiene sentido, somos nosotros quien se lo damos. Somos nosotros quien nos damos sentido.
+Una de las tantas cosas maravillosas que hace tu mente por ser consciente
+de tu propia consciencia. Imitarás o emularas lo que creas que te dará 
+más valor social y lo mismo cuando busques distinguirte.
+
+
+<video autoplay src="uwu.mp4" width="420" height="240"></video>
+
+</pre>
